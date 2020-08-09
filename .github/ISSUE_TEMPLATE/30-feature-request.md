@@ -11,7 +11,7 @@ assignees: ''
 ### Prerequisites <!-- Replace spaces with "x" to tick boxes. -->
 
 - [ ] I am running the latest **alpha** version of Structurize for my Minecraft version.
-- [ ] I checked the MineColonies/Structurize [wiki](https://wiki.minecolonies.ldtteam.com/) and made sure that my issue is not covered there.
+- [ ] I checked the MineColonies/Structurize [wiki](https://wiki.minecolonies.ldtteam.com/) and made sure that my feature does not already exist.
 - [ ] I made sure that **this feature request is not a duplicate of any existing feature request.**
 
 ### Context <!-- Exact MineColonies version (e.g. 0.9.126-ALPHA or 0.9.2-RELEASE) *and* the Minecraft version you're playing, please.-->
