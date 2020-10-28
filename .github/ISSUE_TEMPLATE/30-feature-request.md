@@ -10,7 +10,7 @@ assignees: ''
 <!-- PLEASE DO NOT DELETE TOPICS AS YOUR ISSUE WILL GET CLOSED -->
 ### Prerequisites <!-- Replace spaces with "x" to tick boxes. -->
 
-- [ ] I am running the latest **alpha** version of Structurize for my Minecraft version.
+- [ ] I am running the latest **alpha** version of MineColonies for my Minecraft version.
 - [ ] I checked the MineColonies/Structurize [wiki](https://wiki.minecolonies.ldtteam.com/) and made sure that my feature does not already exist.
 - [ ] I made sure that **this feature request is not a duplicate of any existing feature request.**
 
