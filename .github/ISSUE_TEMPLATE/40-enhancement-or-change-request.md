@@ -1,7 +1,7 @@
 ---	
-name: Enhancement or Change Request - If you have something you would like to change or make better	
-about: Please follow the given template	
-title: ''	
+name: Blacksmith - Trident	
+about: Create recipe for the Blacksmith to make tridents	
+title: 'Blacksmthing Tridents'	
 labels: Enhancement / Change Request	
 assignees: ''	
 
@@ -10,24 +10,24 @@ assignees: ''
 <!-- PLEASE DO NOT DELETE TOPICS AS YOUR ISSUE WILL GET CLOSED -->
 ### Prerequisites <!-- Replace spaces with "x" to tick boxes. -->
 
-- [ ] I am running the latest **alpha** version of MineColonies for my Minecraft version.
-- [ ] I checked the MineColonies/Structurize [wiki](https://wiki.minecolonies.ldtteam.com/) and made sure that my issue is not covered there.
-- [ ] I made sure that **this change request is not a duplicate of any existing change request.**
+- [x] I am running the latest **alpha** version of MineColonies for my Minecraft version.
+- [x] I checked the MineColonies/Structurize [wiki](https://wiki.minecolonies.ldtteam.com/) and made sure that my issue is not covered there.
+- [x] I made sure that **this change request is not a duplicate of any existing change request.**
 
 ### Context <!-- Exact MineColonies version (e.g. 0.9.126-ALPHA or 0.9.2-RELEASE) *and* the Minecraft version you're playing, please.-->
 
-- Minecraft Version:
-- MineColonies Version:
-- Related Mods and their Versions:
+- Minecraft Version: all
+- MineColonies Version: all
+- Related Mods and their Versions: n/a
 
 ## Is your feature request related to a problem?
-<!-- A clear and concise description of what the problem is. Ex: I'm always frustrated when... -->
+No, not a problem.
 
 ## Enhancement or Change description
-<!-- A clear and concise description of what you want to happen. -->
+Give Blacksmiths the ability to craft tridents.
 
 ### Notes or related things
-<!-- Anything else you would like to say. -->
+Currently tridents are mob drops only. This change would allow a Blacksmith (perhaps level 20 or higher) to craft tridents. Minecolonies includes leveling of worker skills, so I hope gating a recipe by worker level is doable. Due to a trident's strength, recipe could be 3 diamonds + 4 iron ingots, or similar.
 
 ---
 ## Viewers
