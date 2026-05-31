@@ -1,0 +1,72 @@
+name: Feature Request
+description: Suggest something new you would like to add to MineColonies
+title: "[Feature Request]: "
+labels:
+  - "Feature: Request"
+body:
+  - type: checkboxes
+    id: prerequisites
+    attributes:
+      label: Prerequisites
+      description: Please confirm all of the following before submitting.
+      options:
+        - label: I am running the latest **alpha** version of MineColonies for my Minecraft version.
+          required: true
+        - label: I checked the [MineColonies wiki](https://wiki.minecolonies.ldtteam.com/) and confirmed this feature does not already exist.
+          required: true
+        - label: I confirmed this is not a duplicate of an existing feature request.
+          required: true
+
+  - type: dropdown
+    id: minecraft-version
+    attributes:
+      label: Minecraft Version
+      description: Which version of Minecraft are you playing?
+      options:
+        - "1.21.x"
+        - "1.20.x"
+    validations:
+      required: true
+
+  - type: input
+    id: minecolonies-version
+    attributes:
+      label: MineColonies Version
+      description: Exact MineColonies version (e.g. `1.1.500-ALPHA` or `1.0.1500-RELEASE`)
+      placeholder: "e.g. 1.1.500-ALPHA"
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Is your feature request related to a problem?
+      description: A clear description of what the problem is, if applicable.
+      placeholder: "e.g. I'm always frustrated when..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Feature Description
+      description: A clear and concise description of what you want to happen. Bullet points or paragraphs both work.
+      placeholder: "Describe the feature you'd like..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes or Related Things
+      description: Anything else you would like to add.
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ## Viewers
+        * Add a **thumbs-up** to this request to vote for it. This helps it become more visible to the team and avoids cluttering the comments.
+        * Add a comment if you have insights or background information not already covered above.
